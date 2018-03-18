@@ -6,3 +6,4 @@ next too
 >>>>>>> tomas/test/2/second
 whoawhoa
 fuj
+fjuuu
