@@ -1,3 +1,7 @@
 bbb
 next
+<<<<<<< .merge_file_tecR1V
 whoa!`
+=======
+oaaah
+>>>>>>> .merge_file_ZCqkLy
