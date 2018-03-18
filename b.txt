@@ -1,7 +1,15 @@
 bbb
 next
 <<<<<<< HEAD
+<<<<<<< HEAD
 oaaah
 =======
 whoa!`
 >>>>>>> tomas/test/1/first
+=======
+<<<<<<< .merge_file_tecR1V
+whoa!`
+=======
+oaaah
+>>>>>>> .merge_file_ZCqkLy
+>>>>>>> tomas/test/combined
