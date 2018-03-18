@@ -1,5 +1,5 @@
 aa
-<<<<<<< HEAD
+<<<<<<wip< HEAD
 newone!
 =======
 next too
