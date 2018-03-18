@@ -1,2 +1,6 @@
 aa
+<<<<<<< HEAD
 newone!
+=======
+next too
+>>>>>>> tomas/test/2/second
