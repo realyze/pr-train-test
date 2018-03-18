@@ -1,6 +1,6 @@
 bbb
 next
-<<<<<<< HEAD
+<<<<<major<< HEAD
 <<<<<<< HEAD
 oaaah
 =======
