@@ -1,3 +1,7 @@
 bbb
 next
+<<<<<<< HEAD
 oaaah
+=======
+whoa!`
+>>>>>>> tomas/test/1/first
