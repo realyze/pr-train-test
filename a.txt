@@ -7,4 +7,8 @@ next too
 whoawhoa
 fuj
 fjuuu
+<<<<<<< HEAD
 owihofubn
+=======
+asfsds
+>>>>>>> tomas/test/2/second
