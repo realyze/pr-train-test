@@ -13,3 +13,4 @@ whoa!`
 oaaah
 >>>>>>> .merge_file_ZCqkLy
 >>>>>>> tomas/test/combined
+aaa
