@@ -3,4 +3,5 @@ trains:
     - v2/test1
     - tomas_v2_test2
     - tomas_v2_test3
-    - tomas_combined_branch
+    - tomas_combined_branch:
+        combined: true
